@@ -1,8 +1,3 @@
-# linux-snapshot
+# linux-config
 
-Small config adjustments
-
-### Install
-```bash
-./set_config.sh
-```
+Scripts to bootstrap my setup
