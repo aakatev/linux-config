@@ -38,4 +38,3 @@ HERE
 # Add aliases
 echo "alias vim='nvim'" >> ~/.bashrc
 echo "alias sudo='sudo '" >> ~/.bashrc
-source ~/.bashrc
