@@ -1,0 +1,11 @@
+#!/bin/bash
+
+cat <<HERE > ~/.gitconfig
+[user]
+	name = aakatev
+	email = aakatev@mail.sfsu.edu
+HERE
+
+
+
+
