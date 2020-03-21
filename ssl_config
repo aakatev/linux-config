@@ -11,4 +11,4 @@ sudo apt-get update -y
 sudo apt-get install certbot python-certbot-nginx -y
 
 # Start certbot
-sudo certbot certonly --nginx
+sudo certbot --nginx
